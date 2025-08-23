@@ -39,7 +39,7 @@ pip install pandas numpy matplotlib seaborn xgboost scikit-learn
 
 1. **Clone the Repository**:
    \`\`\`bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/pavithra-yasiru/XGBoost)
    cd your-repo-name
    \`\`\`
 
