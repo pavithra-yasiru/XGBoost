@@ -45,8 +45,4 @@ It includes steps such as dataset preparation, training, hyperparameter tuning, 
 ```
 ├── XGBoost.ipynb      # Jupyter notebook with code and explanations
 ├── README.md          # Project documentation
-└── requirements.txt   # Python dependencies
 ```
-
-## ✨ Author
-Developed by Pavithra Yasiru.
